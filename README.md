@@ -5,7 +5,7 @@ Thank you for taking the time to look my code!
 I have used Minitest as my testing suite. 
 
 Fork & Clone the repository to your machine and run ruby main.rb from the lockers directory. 
-From there just follow the instruction the program gives you!
+From there just follow the instructions the program gives you!
 
 Let me know if you have any questions!
 
