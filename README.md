@@ -5,7 +5,7 @@ Thank you for taking the time to look my code!
 I have used Minitest as my testing suite. Let me know if you have any questions!
 
 
-Problem:
+# Problem:
 
 Write a program for managing locker reservations at a hotel concierge desk. Customers leave bags with the concierge, 
 who then uses your program to determine in which locker to place the bag. The program tells the concierge the number 
